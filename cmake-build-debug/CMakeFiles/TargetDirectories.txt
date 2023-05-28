@@ -1,0 +1,3 @@
+/Users/nazarurakov/CLionProjects/laba11/cmake-build-debug/CMakeFiles/laba11.dir
+/Users/nazarurakov/CLionProjects/laba11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazarurakov/CLionProjects/laba11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
